@@ -1,4 +1,4 @@
-# Hi there, I'm Vikas Viki! 👋
+# Hi there, I'm Vikas Tiwari! 👋
 
 **Senior Data Platform Engineer @ ServiceNow | Full Stack Python Developer**
 
