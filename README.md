@@ -4,7 +4,7 @@
 
 I love building stuff (and sometimes breaking them). I have a crazy obsession with Python and enjoy tackling complex problems.
 
-- 🔭 **Current Role:** Senior Data Platform Engineer at ![ServiceNow](https://drive.google.com/file/d/1mX-om5qkKBKvA-fT4vVu-h6GboPJkVCC/view?usp=sharing)
+- 🔭 **Current Role:** Senior Data Platform Engineer at ![ServiceNow](www.servicenow.com)
 
 - 🌱 **Currently Learning:** Advanced Django techniques and exploring new Python libraries.
 - 💬 **Ask me about:** Python, Django, Flask, REST APIs, and software design patterns.
