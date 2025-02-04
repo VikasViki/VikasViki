@@ -4,7 +4,8 @@
 
 I love building stuff (and sometimes breaking them). I have a crazy obsession with Python and enjoy tackling complex problems.
 
-- 🔭 **Current Role:** Senior Data Platform Engineer at ![ServiceNow](https://www.servicenow.com/content/dam/servicenow-assets/images/naas/servicenow-header-logo.svg)
+- 🔭 **Current Role:** Senior Data Platform Engineer at ![ServiceNow](https://drive.google.com/file/d/1mX-om5qkKBKvA-fT4vVu-h6GboPJkVCC/view?usp=sharing)
+
 - 🌱 **Currently Learning:** Advanced Django techniques and exploring new Python libraries.
 - 💬 **Ask me about:** Python, Django, Flask, REST APIs, and software design patterns.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/vikasviki/)
