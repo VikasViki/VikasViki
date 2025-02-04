@@ -4,7 +4,7 @@
 
 I love building stuff (and sometimes breaking them). I have a crazy obsession with Python and enjoy tackling complex problems.
 
-- 🔭 **Current Role:** Senior Software Engineer I at [MakeMyTrip](https://www.makemytrip.com/)
+- 🔭 **Current Role:** Senior Data Platform Engineer at [ServiceNow](https://www.servicenow.com/)
 - 🌱 **Currently Learning:** Advanced Django techniques and exploring new Python libraries.
 - 💬 **Ask me about:** Python, Django, Flask, REST APIs, and software design patterns.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/vikasviki/)
