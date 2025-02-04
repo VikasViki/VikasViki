@@ -1,6 +1,6 @@
 # Hi there, I'm Vikas Viki! 👋
 
-**Senior Software Engineer I at MakeMyTrip | Full Stack Python Developer**
+**Senior Data Platform Engineer @ ServiceNow | Full Stack Python Developer**
 
 I love building stuff (and sometimes breaking them). I have a crazy obsession with Python and enjoy tackling complex problems.
 
