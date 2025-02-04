@@ -8,7 +8,7 @@ I love building stuff (and sometimes breaking them). I have a crazy obsession wi
 
 - 🌱 **Currently Learning:** Advanced Django techniques and exploring new Python libraries.
 - 💬 **Ask me about:** Python, Django, Flask, REST APIs, and software design patterns.
-- 📫 **How to reach me:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)
+- 📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasviki)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I often participate in competitive programming to keep my problem-solving skills sharp.
 
