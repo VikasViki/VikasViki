@@ -14,10 +14,6 @@ I love building stuff (and sometimes breaking them). I have a crazy obsession wi
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
-## 🛠️ Technologies & Tools
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=plastic)
