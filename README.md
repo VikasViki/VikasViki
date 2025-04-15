@@ -52,7 +52,7 @@ Feel free to explore these repositories to see my work and contributions.
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through [LinkedIn](https://www.linkedin.com/in/vikasviki/) or check out my [LeetCode profile](https://leetcode.com/u/vikasviki489/) to see my problem-solving journey.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through [LinkedIn](https://www.linkedin.com/in/vikasviki/) or check out my [LeetCode profile](https://leetcode.com/u/vikas_viki/) to see my problem-solving journey.
 
 ---
 
